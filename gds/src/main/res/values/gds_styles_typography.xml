@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Gds.Typography"/>
+    <style name="Gds.Typography.Highlight">
+        <item name="android:fontFamily">@font/now_bold</item>
+        <item name="android:textSize">@dimen/gds_font_size_highlight</item>
+    </style>
+
+    <style name="Gds.Typography.PageHeader">
+        <item name="android:fontFamily">@font/now_bold</item>
+        <item name="android:textSize">@dimen/gds_font_size_page_header</item>
+    </style>
+
+    <style name="Gds.Typography.SectionHeader">
+        <item name="android:fontFamily">@font/now_medium</item>
+        <item name="android:textSize">@dimen/gds_font_size_section_header</item>
+    </style>
+
+    <style name="Gds.Typography.Body">
+        <item name="android:fontFamily">@font/now_regular</item>
+        <item name="android:textSize">@dimen/gds_font_size_body</item>
+    </style>
+
+    <style name="Gds.Typography.Button">
+        <item name="android:fontFamily">@font/now_medium</item>
+        <item name="android:textSize">@dimen/gds_font_size_button</item>
+    </style>
+</resources>

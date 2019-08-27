@@ -1,0 +1,2 @@
+include ':app', ':gds'
+rootProject.name='Super Tic Tac Toe'
